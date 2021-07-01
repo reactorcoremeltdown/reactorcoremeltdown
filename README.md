@@ -2,7 +2,7 @@
 
 Currently identifying myself as a software reliability engineer, though I prefer classic _system administrator_ title.
 
-![](https://github.com/reactorcoremeltdown/reactorcoremeltdown/raw/main/marv.gif)
+<img src="https://github.com/reactorcoremeltdown/reactorcoremeltdown/raw/main/marv.gif" width="100" height="100">
 
 _[[A placeholder for useless fancy badges no one ever cares about]]_
 
