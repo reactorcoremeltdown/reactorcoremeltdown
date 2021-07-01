@@ -11,10 +11,10 @@ _[[A placeholder for useless fancy badges no one ever cares about]]_
 + 🙅 If your intention is to hire me for a _full time_ job at a startup, _you're in a wrong place_.
 + 🙆‍♂️ Part time and project work at _small_ startups is acceptable as long as it won't consume my personal time.
 + 🚫 If your intention is to hire me as a _frontend/backend/whateverend_ software developer, you're again _in a wrong place_.
-+ 👪 If the organisation you want me to hire to work for has _a flat hierarchical structure_, please [read this](https://getlighthouse.com/blog/flat-organizational-structure-fails/) and _do not disturb me again_.
-+ ⛔ If a working contract of the company you want me to hire to work for does not include a clear _salary indexation policy_, please save me some headache.
++ 👪 If the organisation you want me to work for has _a flat hierarchical structure_, please [read this](https://getlighthouse.com/blog/flat-organizational-structure-fails/) and _do not disturb me again_.
++ ⛔ If a working contract of the company you want me to work for does not include a clear _salary indexation policy_, please save me some headache.
 + 🤳 If there's no extension of working contract covering _paid oncall schedules_, please close your email editor and hit the _Discard_ button.
-+ 👴 If the company you want me to hire to work for promotes employees to management positions _by seniority level_(based on time a person had spent working for a company), please move along.
++ 👴 If the company you want me to work for promotes employees to management positions _by seniority level_(based on time a person had spent working for a company), please move along.
 + 😺 If a message you're about to send me does not include pictures of cats, I'll consider your email an insult.
 + 🙌 Thank you for paying attention!
 
