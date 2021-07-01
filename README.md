@@ -2,7 +2,7 @@
 
 Currently identifying myself as a software reliability engineer, though I prefer classic _system administrator_ title.
 
-![](https://media1.tenor.com/images/de8c1dde061f5dc54b434c36aee24671/tenor.gif)
+![](https://github.com/reactorcoremeltdown/reactorcoremeltdown/raw/main/marv.gif)
 
 _[[A placeholder for useless fancy badges no one ever cares about]]_
 
