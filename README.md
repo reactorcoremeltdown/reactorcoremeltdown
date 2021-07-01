@@ -15,6 +15,7 @@ _[[A placeholder for useless fancy badges no one ever cares about]]_
 + ⛔ If a working contract of the company you want me to work for does not include a clear _salary indexation policy_, please save me some headache.
 + 🤳 If there's no extension of working contract covering _paid oncall schedules_, please close your email editor and hit the _Discard_ button.
 + 👴 If the company you want me to work for promotes employees to management positions _by seniority level_(based on time a person had spent working for a company), please move along.
++ 🧑‍🏭 If you are searching for a "DevOps Engineer", your email will likely find itself in my spam folder.
 + 😺 If a message you're about to send me does not include pictures of cats, I'll consider your email an insult.
 + 🙌 Thank you for paying attention!
 
