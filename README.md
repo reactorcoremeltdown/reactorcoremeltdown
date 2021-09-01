@@ -6,6 +6,8 @@ Currently identifying myself as a software reliability engineer, though I prefer
 
 _[[A placeholder for useless fancy badges no one ever cares about]]_
 
+### DISCLAIMER: I don't speak JavaScript
+
 ### What drives me:
 + 🏗️ Building continuous integration pipelines (here goes Jenkins, Travis, Gitlab CI, Drone.io).
 + 👀 Monitoring. It's a complicated but vital topic. First hand experience with Nagios & similar systems.
