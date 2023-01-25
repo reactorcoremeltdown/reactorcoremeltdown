@@ -9,6 +9,7 @@ _[[A placeholder for useless fancy badges no one ever cares about]]_
 ### DISCLAIMER: I don't speak JavaScript
 
 ### What drives me:
+
 + 🏗️ Building continuous integration pipelines (here goes Jenkins, Travis, Gitlab CI, Drone.io).
 + 👀 Monitoring. It's a complicated but vital topic. First hand experience with Nagios & similar systems.
 + 📈 Logging, monitoring, and data flow. Familiar with ELK, able to make apps speak JSON, less familiar with Prometheus and Grafana, but that's on my personal roadmap.
@@ -16,11 +17,14 @@ _[[A placeholder for useless fancy badges no one ever cares about]]_
 + 🛠️ Infrastructure as Code. Had worked with Puppet, Ansible, Terraform; personally prefer plain old Makefiles.
 
 ### What else I am familiar with:
-+ ☁️ AWS (the whole CRUD stack starting with ELB, ECS in the middle, and a variety of services around)
+
++ ☁️  AWS (the whole CRUD stack starting with ELB, ECS in the middle, and a variety of services around)
 + 💻 Various flavours of Linux distributions(currently preferring Debian and Ubuntu, had also worked with CentOS)
 + 💽 DBMS. Mostly MySQL, had worked with MongoDB and PostgreSQL
 + 🎰 Queue services. Had worked with RabbitMQ and beanstalkd, running my own queue engine FSMQ
 + 🌐 Web servers and load balancers. Broad experience of working with NGINX and HAProxy
++ ⚙️  Kubernetes. That, I think, does not need any introduction.
++ 🕸 Istio. Already 1 year into this thing and still learning.
 
 ### Besides code and work
 
