@@ -8,7 +8,8 @@ Hello, stranger! Perhaps you've reached this fine internet page from one of my m
 
 + #### [🧑‍💻 My Code](https://github.com/reactorcoremeltdown?tab=repositories) - home for my code
 + #### [✍️ Tiredsysadmin.cc](https://tiredsysadmin.cc/category/intl) - home for my blogging and tinkering
-    + [📃 Main blog feed](https://tiredsysadmin.cc) - mostly in Russian 
+    + [📃 Main blog feed](https://tiredsysadmin.cc) - mostly in Russian
+        + [💬 Supplementary Telegram channel](https://t.me/tiredsysadmin) - also in Russian
     + [📻 Radio](https://radio.tiredsysadmin.cc) - a podcast feed with mixtapes I sometimes compile
     + [☎️ Museum](https://museum.tiredsysadmin.cc) - (under construction) a website where I put my entire collection of vintage mobile phones and PDAs on display, alongside with related stories
 + #### [🎵 RCMD.SPACE](https://rcmd.space) - home for my own music
