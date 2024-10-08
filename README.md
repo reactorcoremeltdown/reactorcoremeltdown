@@ -1,4 +1,4 @@
-### Azer Abdullaev [[email me](mailto:azer.abdullaev.berlin+)] [[support me](https://tiredsysadmin.cc/donate-intl)]
+### Azer Abdullaev [[email me](mailto:azer.abdullaev.berlin+social@gmail.com)] [[support me](https://tiredsysadmin.cc/donate-intl)]
 
 aka Reactorcoremeltdown aka Tired Sysadmin
 
