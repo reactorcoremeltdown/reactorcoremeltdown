@@ -1,4 +1,5 @@
-### Azer Abdullaev [email me](mailto:azer.abdullaev.berlin+) [support me](https://tiredsysadmin.cc/donate-intl)\
+### Azer Abdullaev [[email me](mailto:azer.abdullaev.berlin+)] [[support me](https://tiredsysadmin.cc/donate-intl)]
+
 aka Reactorcoremeltdown aka Tired Sysadmin
 
 <img src="https://github.com/reactorcoremeltdown/reactorcoremeltdown/raw/main/marv.gif" width="150" height="150">
