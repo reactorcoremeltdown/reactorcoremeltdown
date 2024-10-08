@@ -1,18 +1,19 @@
-### Azer Abdullaev aka Reactorcoremeltdown aka Tired Sysadmin
+### Azer Abdullaev [email me](mailto:azer.abdullaev.berlin+) [support me](https://tiredsysadmin.cc/donate-intl)\
+aka Reactorcoremeltdown aka Tired Sysadmin
 
-<img src="https://github.com/reactorcoremeltdown/reactorcoremeltdown/raw/main/marv.gif" width="200" height="200">
+<img src="https://github.com/reactorcoremeltdown/reactorcoremeltdown/raw/main/marv.gif" width="150" height="150">
 
 Hello, stranger! Perhaps you've reached this fine internet page from one of my many projects, so here is the list to help you navigate:
 
++ #### [🧑‍💻 My Code](https://github.com/reactorcoremeltdown?tab=repositories) - home for my code
++ #### [✍️ Tiredsysadmin.cc](https://tiredsysadmin.cc/category/intl) - home for my blogging and tinkering
+    + [📃 Main blog feed](https://tiredsysadmin.cc) - mostly in Russian 
+    + [📻 Radio](https://radio.tiredsysadmin.cc) - a podcast feed with mixtapes I sometimes compile
+    + [☎️ Museum](https://museum.tiredsysadmin.cc) - (under construction) a website where I put my entire collection of vintage mobile phones and PDAs on display, alongside with related stories
 + #### [🎵 RCMD.SPACE](https://rcmd.space) - home for my own music
     + [🧭 Landing page](https://rcmd.space/tree) - here you can find links to all singles and EPs on all streaming platforms
     + [📺 YouTube](https://rcmd.space/on/youtube) - a YouTube channel where I occasionally upload my demo songs & stream shows for friends
     + [📸 Instagram](https://rcmd.space/on/instagram) - the main social media outlet of the project
-+ #### [✍️ Tiredsysadmin.cc](https://tiredsysadmin.cc/category/intl) - home for my non-musical projects, also a blog
-    + [📃 Main blog feed](https://tiredsysadmin.cc) - mostly in Russian 
-    + [📻 Radio](https://radio.tiredsysadmin.cc) - a podcast feed with mixtapes I sometimes compile
-    + [☎️ Museum](https://museum.tiredsysadmin.cc) - (under construction) a website where I put my entire collection of vintage mobile phones and PDAs on display, alongside with related stories
-+ #### [🧑‍💻 My Code](https://github.com/reactorcoremeltdown?tab=repositories) - home for my code
 
 ### If you want to support what I do:
 
