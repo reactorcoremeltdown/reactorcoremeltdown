@@ -1,18 +1,28 @@
-### Azer Abdullaev aka Reactorcoremeltdown
-
-Currently identifying myself as a software reliability engineer, though I prefer classic _system administrator_ title.
+### Azer Abdullaev aka Reactorcoremeltdown aka Tired Sysadmin
 
 <img src="https://github.com/reactorcoremeltdown/reactorcoremeltdown/raw/main/marv.gif" width="200" height="200">
 
-_[[A placeholder for useless fancy badges no one ever cares about]]_
+Hello, stranger! Perhaps you've reached this fine internet page from one of my many projects, so here is the list to help you navigate:
 
-### DISCLAIMER: I don't speak JavaScript
++ ## [RCMD.SPACE](https://rcmd.space) - home for my own music
+    + ### [Landing page](https://rcmd.space/tree) - here you can find links to all singles and EPs on all streaming platforms
+    + ### [YouTube](https://rcmd.space/on/youtube) - a YouTube channel where I occasionally upload my demo songs & stream shows for friends
+    + ### [Instagram](https://rcmd.space/on/instagram) - the main social media outlet of the project
++ ## [Tiredsysadmin.cc](https://tiredsysadmin.cc/category/intl) - home for my non-musical projects, also a blog
+    + ### [Main blog feed](https://tiredsysadmin.cc) - mostly in Russian 
+    + ### [Radio](https://radio.tiredsysadmin.cc) - a podcast feed with mixtapes I sometimes compile
+    + ### [Museum](https://museum.tiredsysadmin.cc) - (under construction) a website where I put my entire collection of vintage mobile phones and PDAs on display, alongside with related stories
++ ## [My Code](https://github.com/reactorcoremeltdown?tab=repositories) - home for my code
 
-### What drives me:
+### If you want to support what I do:
 
-+ 🏗️ Building continuous integration pipelines (here goes Jenkins, Travis, Gitlab CI, Drone.io).
+Please consider [donating here](https://tiredsysadmin.cc/donate-intl/). All funds will be sent to Kharkiv 🇺🇦 for medical treatment, evacuation, and food for domestic animals.
+
+### My tech knowledge so far:
+
++ 🏗️ Building continuous integration pipelines (here goes Jenkins, Travis, Github Actions, Gitlab CI, Drone.io).
 + 👀 Monitoring. It's a complicated but vital topic. First hand experience with Nagios & similar systems.
-+ 📈 Logging, monitoring, and data flow. Familiar with ELK, able to make apps speak JSON, less familiar with Prometheus and Grafana, but that's on my personal roadmap.
++ 📈 Logging, monitoring, and data flow. Familiar with ELK, able to make apps speak JSON, also familiar with Prometheus and Grafana.
 + 📦 Maintaining container runtime engines. Kubernetes, docker, podman, everything that makes life easier.
 + 🛠️ Infrastructure as Code. Had worked with Puppet, Ansible, Terraform; personally prefer plain old Makefiles.
 
@@ -22,29 +32,8 @@ _[[A placeholder for useless fancy badges no one ever cares about]]_
 + 💻 Various flavours of Linux distributions(currently preferring Debian and Ubuntu, had also worked with CentOS)
 + 💽 DBMS. Mostly MySQL, had worked with MongoDB and PostgreSQL
 + 🎰 Queue services. Had worked with RabbitMQ and beanstalkd, running my own queue engine FSMQ
-+ 🌐 Web servers and load balancers. Broad experience of working with NGINX and HAProxy
++ 🌐 Web servers and load balancers. Broad experience of working with NGINX and HAProxy, dipping my toes into Envoy waters.
 + ⚙️  Kubernetes. That, I think, does not need any introduction.
-+ 🕸 Istio. Already 1 year into this thing and still learning.
-
-### Besides code and work
-
-Sometimes I make noise.
-
-+ 📺 [Watch me on Youtube](https://rcmd.space/on/youtube)
-+ 📷 [Follow me on Instagram](https://instagram.com/reactorcoremeltdown)
++ 🕸 Istio. Already 3 years into this thing and still learning.
 
 ### That's all, folks!
-<!--
-**reactorcoremeltdown/reactorcoremeltdown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
