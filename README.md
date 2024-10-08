@@ -6,7 +6,7 @@ aka Reactorcoremeltdown aka Tired Sysadmin
 
 Hello, stranger! Perhaps you've reached this fine internet page from one of my many projects, so here is the list to help you navigate:
 
-+ #### [🧑‍💻 My Code](https://github.com/reactorcoremeltdown?tab=repositories) - home for my code
++ #### [🧑‍💻 Repositories](https://github.com/reactorcoremeltdown?tab=repositories) - home for my code
 + #### [✍️ Tiredsysadmin.cc](https://tiredsysadmin.cc/category/intl) - home for my blogging and tinkering
     + [📃 Main blog feed](https://tiredsysadmin.cc) - mostly in Russian
         + [💬 Supplementary Telegram channel](https://t.me/tiredsysadmin) - also in Russian
